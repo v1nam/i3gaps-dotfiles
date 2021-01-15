@@ -1,6 +1,4 @@
-![](https://github.com/v1nam/green-dotfiles/blob/main/screenshots/greenrice.png)
-![](https://github.com/v1nam/green-dotfiles/blob/main/screenshots/greenricetwo.png)
-![](https://github.com/v1nam/green-dotfiles/blob/main/screenshots/rofirice.png)
+![](https://github.com/v1nam/green-dotfiles/blob/main/screenshots/allinone.png)
 
 # Things I used
 
