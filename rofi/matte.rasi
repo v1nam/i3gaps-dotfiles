@@ -1,0 +1,89 @@
+* {
+    matte0: #0f161a;
+    matte1: #314e41;
+    matte2: #216542;
+    matte3: #326542;
+    matte4: #44574c;
+    matte5: #41674a;
+    matte6: #337842;
+    matte7: #8fa892;
+    matte8: #667869;
+    matte9: #314e41;
+    matte10: #216542;
+    matte11: #326542;
+    matte12: #44574c;
+    matte13: #41674a;
+    matte14: #337842;
+    matte15: #8fa892;
+
+    background-color: @matte0;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    spacing: 0px;
+    text-color: @matte4;
+}
+#inputbar {
+    text-color: @matte3;
+    padding: 6px;
+    margin: 0px 0px 2px;
+    children: [ entry ];
+}
+#entry {
+    background-color: @matte0;
+    text-color: @matte3;
+    padding: 5px;
+}
+#message {
+    border: 0px 0px 1px;
+    border-color: @matte3;
+    padding: 0px 0px 6px 7px;
+}
+#listview {
+    lines: 10;
+    padding: 2px 0px 0px;
+    scrollbar: true;
+}
+#element {
+    padding: 0px 0px 0px 7px;
+    margin: 0px 0px 5px 0px;
+    text-color: @matte3;
+}
+#element.normal.normal {
+    text-color: @matte3;
+}
+#element.normal.urgent {
+    text-color: @matte3;
+}
+#element.normal.active {
+    text-color: @matte3;
+}
+#element.alternate.normal {
+    text-color: @matte3;
+}
+#element.alternate.urgent {
+    text-color: @matte3;
+}
+#element.alternate.active {
+    text-color: @matte3;
+}
+#element.selected.normal {
+    background-color: @matte8;
+    text-color: @matte1;
+}
+#element.selected.urgent {
+    background-color: @matte11;
+    text-color: @matte4;
+}
+#element.selected.active {
+    background-color: @matte10;
+    text-color: @matte4;
+}
+#scrollbar {
+    handle-color: @matte3;
+    handle-width: 0.50em;
+}
+#button.selected {
+    background-color: @matte8;
+    text-color: @matte4;
+}
