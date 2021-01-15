@@ -1,0 +1,15 @@
+mpd_host = "localhost"
+mpd_port = "6600"
+
+colors_enabled = "yes"
+state_line_color = "30"
+main_window_color = "60"
+active_column_color = "245"
+main_window_highlight_color = "1"
+progressbar_look = "━◯"
+header_visibility = no
+titles_visibility = no
+now_playing_prefix = ""
+now_playing_suffix = ""
+statusbar_visibility = no
+song_columns_list_format = (50)[30]{t|f:Title} 
