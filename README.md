@@ -29,6 +29,9 @@
 ## Run Dialog
 - Rofi
 
+## Compositor
+- Picom
+
 # Screenshots
 
 ## greenrice
