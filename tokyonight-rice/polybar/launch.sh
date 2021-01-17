@@ -2,7 +2,7 @@
 
 # Add this script to your wm startup file.
 
-DIR="$HOME/green-dotfiles/polybar"
+DIR="$HOME/i3gaps-dotfiles/tokyonight-rice/polybar"
 
 # Terminate already running bar instances
 killall -q polybar

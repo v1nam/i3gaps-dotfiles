@@ -155,7 +155,7 @@ exec_always picom -f
 
 for_window [class=".*"] border pixel 0
 
-exec_always sh ~/green-dotfiles/polybar/launch.sh
+exec_always sh ~/i3gaps-dotfiles/greenrice/polybar/launch.sh
 
 gaps inner 17
 smart_gaps on
