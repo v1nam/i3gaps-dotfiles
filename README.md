@@ -34,8 +34,9 @@
 
 # Screenshots
 
-## greenrice
-![](greenrice/screenshots/greenrice.png)
-
 ## tokyo-night
 ![](tokyonight-rice/screenshots/tokyoall.png)
+
+## greenrice
+![](greenrice/screenshots/greenrice.png)
+![](greenrice/screenshots/rofirice.png)
