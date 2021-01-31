@@ -1,5 +1,7 @@
 # Things I used
 
+**Credit:** material ocean theme's wallpaper credit to chillhop music.
+
 ## WM
 - i3-gaps
 
@@ -33,6 +35,9 @@
 - Picom
 
 # Screenshots
+
+## material-ocean
+![](materialocean-rice/screenshots/oceanall.png)
 
 ## tokyo-night
 ![](tokyonight-rice/screenshots/tokyoall.png)

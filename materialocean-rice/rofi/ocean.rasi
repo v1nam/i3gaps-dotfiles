@@ -1,0 +1,89 @@
+* {
+    tokyo0: #0f111a;
+    tokyo1: #f7768e;
+    tokyo2: #8DB16B;
+    tokyo3: #7aa2f7;
+    tokyo4: #7aa2f7;
+    tokyo5: #bb9af7;
+    tokyo6: #7dcfff;
+    tokyo7: #acb0d0;
+    tokyo8: #363b54;
+    tokyo9: #f7768e;
+    tokyo10: #8DB16B;
+    tokyo11: #e0af68;
+    tokyo12: #7aa2f7;
+    tokyo13: #bb9af7;
+    tokyo14: #7dcfff;
+    tokyo15: #acb0d0;
+
+    background-color: @tokyo0;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    spacing: 0px;
+    text-color: @tokyo4;
+}
+#inputbar {
+    text-color: @tokyo3;
+    padding: 6px;
+    margin: 0px 0px 2px;
+    children: [ entry ];
+}
+#entry {
+    background-color: @tokyo0;
+    text-color: @tokyo3;
+    padding: 5px;
+}
+#message {
+    border: 0px 0px 1px;
+    border-color: @tokyo3;
+    padding: 0px 0px 6px 7px;
+}
+#listview {
+    lines: 10;
+    padding: 2px 0px 0px;
+    scrollbar: true;
+}
+#element {
+    padding: 0px 0px 0px 7px;
+    margin: 0px 0px 5px 0px;
+    text-color: @tokyo3;
+}
+#element.normal.normal {
+    text-color: @tokyo3;
+}
+#element.normal.urgent {
+    text-color: @tokyo3;
+}
+#element.normal.active {
+    text-color: @tokyo3;
+}
+#element.alternate.normal {
+    text-color: @tokyo3;
+}
+#element.alternate.urgent {
+    text-color: @tokyo3;
+}
+#element.alternate.active {
+    text-color: @tokyo3;
+}
+#element.selected.normal {
+    background-color: @tokyo8;
+    text-color: @tokyo1;
+}
+#element.selected.urgent {
+    background-color: @tokyo11;
+    text-color: @tokyo4;
+}
+#element.selected.active {
+    background-color: @tokyo10;
+    text-color: @tokyo4;
+}
+#scrollbar {
+    handle-color: @tokyo3;
+    handle-width: 0.50em;
+}
+#button.selected {
+    background-color: @tokyo8;
+    text-color: @tokyo4;
+}
