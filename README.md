@@ -37,7 +37,7 @@
 # Screenshots
 
 ## material-ocean
-![](materialocean-rice/screenshots/oceanall.png)
+![](materialocean-rice/screenshots/oceanallrofi.png)
 
 ## tokyo-night
 ![](tokyonight-rice/screenshots/tokyoall.png)
