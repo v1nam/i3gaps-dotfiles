@@ -43,9 +43,14 @@ And credit to all the developers of all the other applications I used
 ## material-ocean
 ![](materialocean-rice/screenshots/oceanallrofi.png)
 
-## tokyo-night
-![](tokyonight-rice/screenshots/tokyoall.png)
+## gruvbox
+![](gruvbox-rice/screenshots/greenall.png)
 
 ## greenrice
 ![](greenrice/screenshots/greenrice.png)
 ![](greenrice/screenshots/rofirice.png)
+
+## tokyo-night
+![](tokyonight-rice/screenshots/tokyoall.png)
+
+
