@@ -41,7 +41,7 @@ And credit to all the developers of all the other applications I used
 # Screenshots
 
 ## material-ocean
-![](materialocean-rice/screenshots/oceanallrofi.png)
+![](materialocean-rice/screenshots/matwhole.png)
 
 ## gruvbox
 ![](gruvbox-rice/screenshots/greenall.png)
