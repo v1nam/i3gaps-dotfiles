@@ -46,6 +46,9 @@ And credit to all the developers of all the other applications I used
 ## gruvbox
 ![](gruvbox-rice/screenshots/greenall.png)
 
+## nord
+![](nord-rice/screenshots/nordwhole.png)
+
 ## greenrice
 ![](greenrice/screenshots/greenrice.png)
 ![](greenrice/screenshots/rofirice.png)
