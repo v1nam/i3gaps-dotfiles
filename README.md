@@ -43,6 +43,9 @@ And credit to all the developers of all the other applications I used
 ## material-ocean
 ![](materialocean-rice/screenshots/matwhole.png)
 
+## forest-night
+![](forest-night/screenshots/forestwhole.png)
+
 ## gruvbox
 ![](gruvbox-rice/screenshots/greenall.png)
 
