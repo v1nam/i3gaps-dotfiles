@@ -1,10 +1,10 @@
 # ~/.starship/starship
 add_newline = true
 
-format="""
-[┌─── ](green)[─── ](blue)$username$hostname$directory$python$conda$rust$node$elm$lua$java$golang$erlang$package$git_branch$git_commit$git_state$git_status$hg_branch$docker_context$cmake$jobs$time
-[└](green)$character
-"""
+# format="""
+# [┌─── ](green)[─── ](blue)$username$hostname$directory$python$conda$rust$node$elm$lua$java$golang$erlang$package$git_branch$git_commit$git_state$git_status$hg_branch$docker_context$cmake$jobs$time
+# [└](green)$character
+# """
 
 [battery]
 full_symbol = "🔋"
@@ -28,21 +28,21 @@ style = "bold yellow"
 threshold = 100
 style = "bold green"
 
-[character]
-success_symbol = "[](green)"  # nf-fa-angle_double_right
-error_symbol = "[](#ff2a00)"  # nf-fa-ban
+# [character]
+# success_symbol = "[](green)"  # nf-fa-angle_double_right
+# error_symbol = "[](#ff2a00)"  # nf-fa-ban
 # vicmd_symbol = "[](bold #ffaa00)"  # nf-fa-angle_double_left
 
 [cmd_duration]
-style = "#c982ff"
+style = "8"
 show_milliseconds = true
-min_time = 10_000  # Show command duration over 10,000 milliseconds (=10 sec)
+min_time = 30_000  # Show command duration over 10,000 milliseconds (=10 sec)
 format = "took [$duration]($style)"
 
 [directory]
 truncation_length = 1
 style = "yellow"
-format = "in [$path]($style)[$lock_symbol]($lock_style) "
+format = "[$path]($style)[$lock_symbol]($lock_style) "
 
 [git_branch]
 format = " [$branch]($style) "
@@ -96,18 +96,20 @@ style = "bold #00ff11"
 format = "[$symbol$version]($style) "
 
 [package]
-disabled = false
+disabled = true
 
 [python]
 symbol = " "
-style = "green"
+style = "yellow"
 format = "[$symbol$version]($style) "
 pyenv_version_name = true
+disabled = true
 
 [rust]
 symbol = "️ " 
 style = "bold #fca103"
 format = "[$symbol$version]($style) "
+disabled = true
 
 [time]
 time_format = "%T"
@@ -118,4 +120,4 @@ disabled = true
 [username]
 style_user = "blue"
 format = "[$user]($style) "
-show_always = true 
+disabled = true
