@@ -2,7 +2,6 @@
 
 **Credit:**
 material ocean theme's wallpaper credit to chillhop music.  
-And credit to all the developers of all the other applications I used
 
 ## WM
 - i3-gaps
@@ -18,7 +17,7 @@ And credit to all the developers of all the other applications I used
 - [cava](https://github.com/karlstav/cava) (music visualizer)
 - [neofetch](https://github.com/dylanaraps/neofetch) (fetch utility)
 - [pfetch](https://github.com/dylanaraps/pfetch) (another fetch utility)
-- [bunnfetch](https://github.com/elenapan/dotfiles/blob/master/bin/bunnyfetch) (one more fetch utility...)
+- [bunnyfetch](https://github.com/elenapan/dotfiles/blob/master/bin/bunnyfetch) (one more fetch utility...)
 - [tty-clock](https://github.com/xorg62/tty-clock) (the clock)
 - [cmatrix](https://github.com/abishekvashok/cmatrix) (the floating glyphs)
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) (the pipes)
