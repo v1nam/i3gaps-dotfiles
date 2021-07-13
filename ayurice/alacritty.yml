@@ -1,0 +1,46 @@
+window:
+    padding:
+        x: 30
+        y: 30
+    dynamic_padding: true
+
+font:
+    normal:
+        family: Fantasque Sans Mono Nerd Font
+        style: Regular
+    size: 13
+
+schemes:
+    # Tokyo Night theme, based on both:
+    #   https://github.com/ghifarit53/tokyonight-vim
+    #   https://github.com/enkia/tokyo-night-vscode-theme
+      # Default colors
+    ayu: &ayu
+        primary:
+            background: '0x0f1419'
+            foreground: '0xe6e1cf'
+
+    # Normal colors
+        normal:
+            black:   '0x000000'
+            red:     '0xf34a4a'
+            green:   '0xbae67e'
+            yellow:  '0xffee99'
+            blue:    '0x73d0ff'
+            magenta: '0xd4bfff'
+            cyan:    '0x83CEC6'
+            white:   '0xf2f2f2'
+
+    # Bright colors
+        bright:
+            black:   '0x737d87'
+            red:     '0xff3333'
+            green:   '0xc2d94c'
+            yellow:  '0xe7c547'
+            blue:    '0x59c2ff'
+            magenta: '0xb77ee0'
+            cyan:    '0x5ccfe6'
+            white:   '0xffffff'
+
+colors: *ayu
+
